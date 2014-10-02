@@ -1,0 +1,7 @@
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ASMX\bin\WebService.ASMX.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ASMX\bin\WebService.ASMX.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ASMX\bin\Data.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ASMX\bin\Data.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ASMX\obj\Debug\WebService.ASMX.csprojResolveAssemblyReference.cache
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ASMX\obj\Debug\WebService.ASMX.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ASMX\obj\Debug\WebService.ASMX.pdb
