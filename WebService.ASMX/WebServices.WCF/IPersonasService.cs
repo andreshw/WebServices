@@ -4,6 +4,7 @@ using System.Linq;
 using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.Text;
+using Data;
 
 namespace WebServices.WCF
 {
@@ -12,6 +13,12 @@ namespace WebServices.WCF
     public interface IPersonasService
     {
         [OperationContract]
-        void DoWork();
+        Persona[] ObtenerPersonas();
+
+        [OperationContract]
+        Persona ObtenerPersonaPorId(int id);
+
+        [OperationContract]
+        void GuardarPersona(Persona persona);
     }
 }

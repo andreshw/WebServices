@@ -3,3 +3,4 @@ D:\PruebasConcepto\WebServices\WebService.ASMX\PersonasClient\bin\Debug\Personas
 D:\PruebasConcepto\WebServices\WebService.ASMX\PersonasClient\bin\Debug\PersonasClient.pdb
 D:\PruebasConcepto\WebServices\WebService.ASMX\PersonasClient\obj\x86\Debug\PersonasClient.exe
 D:\PruebasConcepto\WebServices\WebService.ASMX\PersonasClient\obj\x86\Debug\PersonasClient.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\PersonasClient\obj\x86\Debug\PersonasClient.csprojResolveAssemblyReference.cache

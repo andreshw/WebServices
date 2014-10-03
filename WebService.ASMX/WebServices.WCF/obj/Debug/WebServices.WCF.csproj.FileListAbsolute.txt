@@ -1,0 +1,7 @@
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.WCF\bin\WebServices.WCF.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.WCF\bin\WebServices.WCF.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.WCF\bin\Data.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.WCF\bin\Data.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.WCF\obj\Debug\WebServices.WCF.csprojResolveAssemblyReference.cache
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.WCF\obj\Debug\WebServices.WCF.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.WCF\obj\Debug\WebServices.WCF.pdb
