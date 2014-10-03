@@ -1,0 +1,7 @@
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.Rest\bin\WebServices.Rest.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.Rest\bin\WebServices.Rest.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.Rest\obj\Debug\WebServices.Rest.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.Rest\obj\Debug\WebServices.Rest.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.Rest\bin\Data.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.Rest\bin\Data.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.Rest\obj\Debug\WebServices.Rest.csprojResolveAssemblyReference.cache

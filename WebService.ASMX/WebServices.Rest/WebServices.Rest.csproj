@@ -6,12 +6,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{0FD2DBF0-C236-408B-A057-81BC4B381311}</ProjectGuid>
+    <ProjectGuid>{50E68E13-24B8-4881-8B12-F3983A824FCD}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebServices.AJAX</RootNamespace>
-    <AssemblyName>WebServices.AJAX</AssemblyName>
+    <RootNamespace>WebServices.Rest</RootNamespace>
+    <AssemblyName>WebServices.Rest</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <UseIISExpress>false</UseIISExpress>
   </PropertyGroup>
@@ -54,7 +54,6 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="ClientePersonas.aspx" />
     <Content Include="PersonasService.svc" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -65,13 +64,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ClientePersonas.aspx.cs">
-      <DependentUpon>ClientePersonas.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="ClientePersonas.aspx.designer.cs">
-      <DependentUpon>ClientePersonas.aspx</DependentUpon>
-    </Compile>
     <Compile Include="PersonasService.svc.cs">
       <DependentUpon>PersonasService.svc</DependentUpon>
     </Compile>
@@ -91,7 +83,7 @@
         <WebProjectProperties>
           <UseIIS>False</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>62691</DevelopmentServerPort>
+          <DevelopmentServerPort>60893</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>
           </IISUrl>

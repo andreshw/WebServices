@@ -15,7 +15,8 @@ namespace WebServices.AJAX
     public class PersonasService
     {
         [OperationContract]
-        [WebGet(ResponseFormat=WebMessageFormat.Xml)]
+        //[WebGet(ResponseFormat=WebMessageFormat.Xml)]
+        [WebGet(ResponseFormat = WebMessageFormat.Xml)]
         public Persona[] ObtenerPersonas()
         {
             PersonaDataService personaDataService = new PersonaDataService();

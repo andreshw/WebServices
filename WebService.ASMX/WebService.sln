@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices.WCF", "WebServi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices.AJAX", "WebServices.AJAX\WebServices.AJAX.csproj", "{0FD2DBF0-C236-408B-A057-81BC4B381311}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServices.Rest", "WebServices.Rest\WebServices.Rest.csproj", "{50E68E13-24B8-4881-8B12-F3983A824FCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +76,16 @@ Global
 		{0FD2DBF0-C236-408B-A057-81BC4B381311}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{0FD2DBF0-C236-408B-A057-81BC4B381311}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{0FD2DBF0-C236-408B-A057-81BC4B381311}.Release|x86.ActiveCfg = Release|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{50E68E13-24B8-4881-8B12-F3983A824FCD}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
