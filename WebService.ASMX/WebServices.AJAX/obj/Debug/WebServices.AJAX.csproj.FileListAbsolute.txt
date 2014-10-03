@@ -1,0 +1,7 @@
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.AJAX\bin\WebServices.AJAX.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.AJAX\bin\WebServices.AJAX.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.AJAX\obj\Debug\WebServices.AJAX.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.AJAX\obj\Debug\WebServices.AJAX.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.AJAX\bin\Data.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.AJAX\bin\Data.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebServices.AJAX\obj\Debug\WebServices.AJAX.csprojResolveAssemblyReference.cache
