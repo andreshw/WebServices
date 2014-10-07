@@ -14,19 +14,33 @@ namespace WebServices.Rest
     [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Allowed)]
     public class PersonasService
     {
-        // To use HTTP GET, add [WebGet] attribute. (Default ResponseFormat is WebMessageFormat.Json)
-        // To create an operation that returns XML,
-        //     add [WebGet(ResponseFormat=WebMessageFormat.Xml)],
-        //     and include the following line in the operation body:
-        //         WebOperationContext.Current.OutgoingResponse.ContentType = "text/xml";
+        private PersonaDataService personasDataService;
+
+        public PersonasService()
+        {
+            personasDataService = new PersonaDataService();
+        }
+
         [OperationContract]
         [WebGet(UriTemplate = "/ObtenerPersonas", ResponseFormat = WebMessageFormat.Json)]
         public Persona[] ObtenerPersonas()
         {
-            PersonaDataService personasDataService = new PersonaDataService();
             return personasDataService.ObtenerPersonas();
         }
 
-        // Add more operations here and mark them with [OperationContract]
+        [WebGet(ResponseFormat=WebMessageFormat.Json, UriTemplate="/Personas/{id}")]
+        public Persona ObtenerPersonaPorId(string id)
+        {
+            return personasDataService.OntenerPersonaPorId(Convert.ToInt32(id));
+        }
+
+        [OperationContract]
+        [WebInvoke(Method="POST", UriTemplate="/Persona", ResponseFormat = WebMessageFormat.Json)]
+        public Persona GuardarPersona(Persona persona)
+        {
+            personasDataService.GuardarPersona(persona);
+            persona.Edad = 0;
+            return persona;
+        }
     }
 }

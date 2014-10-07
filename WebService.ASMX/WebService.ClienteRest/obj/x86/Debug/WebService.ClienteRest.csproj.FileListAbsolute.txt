@@ -1,0 +1,6 @@
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ClienteRest\bin\Debug\WebService.ClienteRest.exe
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ClienteRest\bin\Debug\WebService.ClienteRest.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ClienteRest\bin\Debug\Data.dll
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ClienteRest\bin\Debug\Data.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ClienteRest\obj\x86\Debug\WebService.ClienteRest.exe
+D:\PruebasConcepto\WebServices\WebService.ASMX\WebService.ClienteRest\obj\x86\Debug\WebService.ClienteRest.pdb

@@ -2,3 +2,4 @@ D:\PruebasConcepto\WebServices\WebService.ASMX\Data\bin\Debug\Data.dll
 D:\PruebasConcepto\WebServices\WebService.ASMX\Data\bin\Debug\Data.pdb
 D:\PruebasConcepto\WebServices\WebService.ASMX\Data\obj\Debug\Data.dll
 D:\PruebasConcepto\WebServices\WebService.ASMX\Data\obj\Debug\Data.pdb
+D:\PruebasConcepto\WebServices\WebService.ASMX\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
